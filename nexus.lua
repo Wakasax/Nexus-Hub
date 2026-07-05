@@ -33,5 +33,7 @@ local Window = Rayfield:CreateWindow({
    }
 })
 
-    
 
+
+    
+Rayfield:LoadConfiguration()
